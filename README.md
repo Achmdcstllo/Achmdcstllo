@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Achmdcstllo
 - 👀 I’m interested in programming, but i sctipt kiddies:v
-- 🌱 I’m currently learning study
+- 🌱 I'm Newbie
 - 💞️ I’m looking to collaborate on github
 
 <!---
