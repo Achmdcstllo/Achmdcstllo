@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Achmdcstllo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hai, saya @Achmdcstllo
+Saya tertarik dengan programming 
+Saat ini saya sedang belajar Javascript 
+️Saya sedang mencari kerjasama untuk membuat projek WhatsApp Bot
 
-this is a cloned account from Achmadcstllo 
+# Donasi?
+https://saweria.co/Achmdcstllo
+https://trakteer.id/Achmdcstllo 
