@@ -1,17 +1,9 @@
-<h1 align="center">Hi 👋, I'm Achmdcstllo</h1>
+<h1 align="center">Hi 👋, I'm Achmad</h1>
 <h3 align="center">Saya adalah seorang developer newbie yang suka recode</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achmdcstllo" alt="achmdcstllo" /></a> </p>
 
-- 🔭 I’m currently working on [TheGlory—MD](https://github.com/Achmdcstllo/TheGlory-MD)
-
-- 🌱 I’m currently learning **Javascript, html**
-
-- 📫 How to reach me **achmdcstllo@gmail.com**
-
-- ⚡ Fun fact **Saya skizofrenia**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://wa.me/message/HXG2CQYFHU5UD1</h3>
 <p align="left">
 </p>
 
